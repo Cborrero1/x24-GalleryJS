@@ -1,1 +1,0 @@
-# x24-GalleryJS
